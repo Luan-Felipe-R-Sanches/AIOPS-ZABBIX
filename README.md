@@ -39,7 +39,7 @@ O **AIOPS ZABBIX** é uma camada de inteligência artificial que transforma o mo
 
 ### 1. Clone o repositório
 ```bash
-git clone [https://github.com/SEU_USUARIO/aiops-zabbix.git](https://github.com/SEU_USUARIO/aiops-zabbix.git)
+git clone https://github.com/Luan-Felipe-R-Sanches/AIOPS-ZABBIX.git
 cd aiops-zabbix
 
 ```
